@@ -146,7 +146,7 @@ public class VentanaBurbuja extends JFrame implements Runnable {
         writer.println("<!DOCTYPE HTML>");
         writer.println("<html>");
 	writer.println("<head>");
-		writer.println("<title>Reporte Cifrado IPC 1</title>");
+		writer.println("<title>Metodos de Ordenamiento</title>");
 		writer.println("<meta charset=\"utf-8\" />");
 		writer.println("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\" />");
 		writer.println("<meta name=\"description\" content=\"\" />");
